@@ -1,10 +1,10 @@
 public class persona{
     private String nombre;
-    private int edad;
+    private double edad;
 
 
 
-    public persona(String nombre, int edad){
+    public persona(String nombre, double edad){
         this.nombre=nombre;
         this.edad= edad;
     }
